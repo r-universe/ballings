@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AUC"]
+	path = AUC
+	url = https://github.com/cran/AUC
+	shallow = true
+	registered = true
+[submodule "dummy"]
+	path = dummy
+	url = https://github.com/cran/dummy
+	shallow = true
+	registered = true
+[submodule "genalg"]
+	path = genalg
+	url = https://github.com/cran/genalg
+	shallow = true
+	registered = true
+[submodule "hybridEnsemble"]
+	path = hybridEnsemble
+	url = https://github.com/cran/hybridEnsemble
+	shallow = true
+	registered = true
+[submodule "interpretR"]
+	path = interpretR
+	url = https://github.com/cran/interpretR
+	shallow = true
+	registered = true
+[submodule "kernelFactory"]
+	path = kernelFactory
+	url = https://github.com/cran/kernelFactory
+	shallow = true
+	registered = true
+[submodule "rotationForest"]
+	path = rotationForest
+	url = https://github.com/cran/rotationForest
+	shallow = true
+	registered = true
