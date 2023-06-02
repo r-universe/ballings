@@ -18,11 +18,6 @@
 	url = https://github.com/cran/genalg
 	shallow = true
 	registered = true
-[submodule "hybridEnsemble"]
-	path = hybridEnsemble
-	url = https://github.com/cran/hybridEnsemble
-	shallow = true
-	registered = true
 [submodule "interpretR"]
 	path = interpretR
 	url = https://github.com/cran/interpretR
