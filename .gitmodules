@@ -11,6 +11,9 @@
 [submodule "genalg"]
 	path = genalg
 	url = https://github.com/cran/genalg
+[submodule "imputeMissings"]
+	path = imputeMissings
+	url = https://github.com/cran/imputeMissings
 [submodule "interpretR"]
 	path = interpretR
 	url = https://github.com/cran/interpretR
